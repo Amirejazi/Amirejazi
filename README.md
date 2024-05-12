@@ -8,7 +8,7 @@
 - :technologist: I love using Software as a solution for every `Problem`.
 - 🥰 Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`.
-- 📫 <b>How to reach me</b>: Catch and follow me from the above links 👆.
+- 📫 <b>How to reach me</b>: Catch and follow me using the links below 👇.
 
 <img src="https://github.com/Amirejazi/Amirejazi/blob/main/light-line.gif">
 
