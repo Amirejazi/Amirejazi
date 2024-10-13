@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Amirhosein Ejazi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div align=center>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=500&height=40&lines=Hi&hearts;++;MyActivity+in+the+Backend+field;Computer+Engineer+Student;Active+Learner;&hearts;Love+to+learn+new+stuffs.." alt="Headline" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=500&height=40&lines=Hi&hearts;++;Backend+Enthusiast;Computer+Engineering+Student;Passionate+Learner;&hearts;Love+exploring+new+ideas+and+technologies.." alt="Headline" />
 </div>
 
 ## <picture><img src = "https://github.com/Amirejazi/Amirejazi/blob/main/about_me.gif" width = 50px></picture> **About me**
