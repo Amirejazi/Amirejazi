@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=500&height=40&lines=Hi&hearts;++;Backend+Enthusiast;Computer+Engineering+Student;Passionate+Learner;&hearts;Love+exploring+new+ideas+and+technologies.." alt="Headline" />
 </div>
 
-## <picture><img src = "https://github.com/Amirejazi/Amirejazi/blob/main/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/Amirejazi/Amirejazi/blob/main/assets/about_me.gif" width = 50px></picture> **About me**
 - :technologist: I love using Software as a solution for every `Problem`.
 - 🥰 Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`.
@@ -83,7 +83,7 @@
 
 <!--icons and links-->
 <p align="center">
-<a href="https://www.linkedin.com/in/amirhosein-ejazi-ba7323260" target="blank"><img align="center" src="https://github.com/Amirejazi/Amirejazi/blob/main/linkdin_img.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://www.instagram.com/Amir.ho3ein.e" target="blank"><img align="center" src="https://github.com/Amirejazi/Amirejazi/blob/main/instagram_img.png" alt="instagram" height="50" width="50" /></a>
-<a href="#" target="blank"><img align="center" src="https://github.com/Amirejazi/Amirejazi/blob/main/discord_img.png" alt="discord" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/amirhosein-ejazi-ba7323260" target="blank"><img align="center" src="https://github.com/Amirejazi/Amirejazi/blob/main/assets/linkdin_img.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://www.instagram.com/Amir.ho3ein.e" target="blank"><img align="center" src="https://github.com/Amirejazi/Amirejazi/blob/main/assets/instagram_img.png" alt="instagram" height="50" width="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/Amirejazi/Amirejazi/blob/main/assets/discord_img.png" alt="discord" height="50" width="50" /></a>
 </p>
